@@ -1,0 +1,148 @@
+.headshot {
+    height: 420px;
+    width: 420px;
+    overflow: hidden;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 210px;
+}
+
+.headshot img {
+    width: 800px;
+    margin: 0 0 0 -350px;
+}
+
+.bio {
+    padding: 50px 0 50 0;
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+    width: calc(100% - 500px);
+    min-height: 480px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.bio-intro {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.name {
+    color: #2E7E91;
+}
+
+.circle {
+    background-color: #2E7E91;
+    color: white;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 10px;
+    vertical-align: top;
+    text-align: center;
+    line-height: 150px;
+}
+
+.timeline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 84%;
+}
+
+.circle1 {
+    background-color: #2E7E91;
+}
+
+.cirlce2 {
+    background-color: #2e7d91a8;
+}
+
+.timeline-circle {
+    width: 120px;
+    border-radius: 120px;
+    color: grey;
+    font-size: 18px;
+    display: inline-block;
+    padding: 50.5px 0 50.5px 0;
+}
+
+.circle-box {
+    align-content: center;
+    text-align: center;
+    display: inline-block;
+}
+
+.light-blue-circle {
+    border: 5px solid #39A8C5;
+}
+
+.blue-circle {
+    border: 5px solid #369BB4;
+}
+
+.medium-blue-circle {
+    border: 5px solid #328BA0;
+}
+
+.dark-blue-circle {
+    border: 5px solid #2E7E91
+}
+
+.company-circle {
+    width: 20% !important;
+}
+
+.tbog-circle-box {
+    margin-left: -0.5%;
+    width: 20%;
+}
+
+.tbog-circle {
+    padding: 41.5px 0 41.5px 0 !important;
+    border: 5px solid #2E7E91;
+    line-height: 18px;
+}
+
+.hockey-circle-box {
+    margin-left: 3%;
+    width: 20%;
+}
+
+.hockey-circle {
+    border: 5px solid #2E7E91
+}
+
+.captain-circle-box {
+    margin-left: 35%;
+    width: 20%;
+}
+
+.captain-circle {
+    border: 5px solid #2E7E91;
+    padding: 32.5px 0 32.5px 0 !important;
+    line-height: 18px;
+}
+
+.timeline-circles-container {
+    display: flex;
+    margin-left: 11.5%;
+    margin-right: auto;
+    width: 79%;
+}
+
+.timeline {
+    margin-bottom: -5px;
+}
+
+.footer {
+    margin-top: 20px !important;
+    font-size: 18px;
+    text-align: center !important;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,4 @@
+.experience-title {
+    width: calc(100% - 40px);
+    display: inline-block;
+}
